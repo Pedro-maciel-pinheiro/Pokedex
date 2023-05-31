@@ -4,7 +4,7 @@ body {
   max-width: 1280px;
   margin: 0 auto;
 
-  background: url(/src/img/HD-pokeball.jpg) center no-repeat;
+  background: url(/github/HD-pokeball.jpg) center no-repeat;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -19,7 +19,7 @@ body.dark-mode {
 .dark-mode .pokemon-card {
   background-color: rgba(19, 19, 19, 0.774);
   border: solid rgb(216, 215, 215);
-  background: url(/src/img/HD-pokeball.jpg) center no-repeat;
+  background: url(/github/HD-pokeball.jpg) center no-repeat;
 }
 
 .dark-mode p {
