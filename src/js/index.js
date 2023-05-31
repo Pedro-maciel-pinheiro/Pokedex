@@ -8,10 +8,8 @@ buttonClick.addEventListener("click", () => {
   body.classList.toggle("dark-mode");
 
   if (darkMode) {
-    
-    buttonImg.setAttribute("src", "./img/sun.png");
+    buttonImg.setAttribute("src", "./src/img/sun.png");
   } else {
-    
-    buttonImg.setAttribute("src", "./img/moon.png");
+    buttonImg.setAttribute("src", "./src/img/moon.png");
   }
 });
