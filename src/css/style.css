@@ -4,7 +4,7 @@ body {
   max-width: 1280px;
   margin: 0 auto;
 
- 
+  background: url(/github/HD-pokeball.jpg) center no-repeat;
   background-size: cover;
   width: 100%;
   height: 100%; 
